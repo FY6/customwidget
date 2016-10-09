@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">侧滑菜单</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="slide_news">新闻</string>
+    <string name="slide_read">订阅</string>
+    <string name="slide_ties">跟帖</string>
+    <string name="slide_pics">图片</string>
+    <string name="slide_ugc">话题</string>
+    <string name="slide_vote">投票</string>
+    <string name="slide_focus">聚合阅读</string>
+    
+    <string name="main_title">牛逼新闻</string>
+    <string name="main_content">钓鱼单是中国的.....</string>
+
+</resources>
